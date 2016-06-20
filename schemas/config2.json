@@ -1,0 +1,9 @@
+{
+  "uri": "bparser-0.slife.7753.mongodbdns.com",
+  "user": "bparser",
+  "pass": "4mbul0nc3",
+  "database": "Ambulance",
+  "port": "27000",
+  "price_table": "Plansprice",
+  "node_port": "300" 
+}

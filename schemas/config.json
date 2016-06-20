@@ -1,0 +1,9 @@
+{
+  "uri": "localhost",
+  "user": "",
+  "pass": "",
+  "database": "Ambulance",
+  "port": "", 
+  "price_table": "Plansprice",
+  "node_port": "300" 
+}
