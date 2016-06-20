@@ -1,0 +1,26 @@
+{
+  "name": "rate-calculator",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines":{
+    "node":"0.12.2",
+    "npm":"2.7.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "express": "^4.11.0",
+    "mongoose": "*",
+    "path": "^0.11.14",
+    "fs": "*",
+    "nconf": "*",
+   "request": "*",
+    "cheerio": "*",
+    "express-logge":"*"
+  }
+}
