@@ -1,3 +1,5 @@
+'use strict';
+
 var mongoose = require('mongoose');
 var help_scripts = require('./HelpScripts');
 var request = require('request')
