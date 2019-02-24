@@ -1,3 +1,5 @@
+'use strict';
+
 var nconf = require('nconf');
 var path = require('path');
 nconf.argv()
